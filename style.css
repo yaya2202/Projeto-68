@@ -19,3 +19,31 @@
 {
  margin: 20px;
 }
+.container {
+ text-align: center;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.filme_head
+{
+ font-size: 20px;
+ padding: 6px 22px;
+ border-radius: 10px;
+ margin-bottom: 15px;
+}
+.filme_head i
+{
+ float: right;
+}
+.conquistas_text span
+{
+ color: orange;
+}
+#conquistas_text img{
+    height: 500px;
+}
+h2{
+    margin-top: 100px !important;
+}
