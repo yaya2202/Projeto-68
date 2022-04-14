@@ -44,6 +44,9 @@
 #conquistas_text img{
     height: 500px;
 }
-h2{
-    margin-top: 100px !important;
+.novidade {
+    margin-bottom: 20px;
+}
+#contato iframe{
+    width: 100%;
 }
